@@ -1,4 +1,0 @@
-interface:
-  display_name: "Spring Storage Analyzer"
-  short_description: "Mac/Windows disk analysis and cleanup report"
-  default_prompt: "Use $spring-storage-analyzer to scan my storage and open a guarded cleanup report."
